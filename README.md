@@ -74,13 +74,6 @@ Editar perfil - Cambios aplicados en la base de datos.
 
 
 
-##  Capturas de evidencia
-Las capturas que muestran los resultados del sistema se encuentran en la carpeta `/evidencias`:
-MySQL con tabla `usuarios`.  
-MongoDB con logs registrados.  
-Consola del programa mostrando las operaciones principales.
-
-
 
 ##  Decisiones de diseño
 Se usó una arquitectura modular con 4 archivos para mantener el código ordenado.  
